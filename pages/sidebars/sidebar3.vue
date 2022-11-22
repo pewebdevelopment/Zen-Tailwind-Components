@@ -1,5 +1,5 @@
 <template>
-  <!-- component -->
+  <!-- Firebase like Sidebar Component -->
   <div class="flex min-h-screen">
     <nav class="w-64 flex-shrink-0">
       <div class="flex-auto bg-gray-900 h-full">
