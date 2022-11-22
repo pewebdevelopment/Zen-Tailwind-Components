@@ -1,6 +1,6 @@
 <template>
   <div>
-    <samComp />
+    <h1 class="mx-auto">Index Page</h1>
   </div>
 </template>
 
