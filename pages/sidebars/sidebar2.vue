@@ -1369,6 +1369,8 @@
   </div>
 </template>
 
+// replace the following code with Vue JS Code
+
 // <script>
 // let icon1 = document.getElementById("icon1");
 // let menu1 = document.getElementById("menu1");
