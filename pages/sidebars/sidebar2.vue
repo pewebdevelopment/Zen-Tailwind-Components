@@ -13,7 +13,7 @@
         items-center
       "
     >
-      <!--- more free and premium Tailwind CSS components at https://tailwinduikit.com/ --->
+      <!--- more free and premium Tailwind CSS components at https://tailwinduikit.com/ -->
       <div class="flex justify-between items-center space-x-3">
         <svg
           width="34"
