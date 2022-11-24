@@ -118,7 +118,7 @@
         flex-col
       "
     >
-      <!--- more free and premium Tailwind CSS components at https://tailwinduikit.com/ --->
+      <!-- more free and premium Tailwind CSS components at https://tailwinduikit.com/ -->
 
       <div class="hidden xl:flex justify-start p-6 items-center space-x-3">
         <svg
